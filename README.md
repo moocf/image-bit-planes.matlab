@@ -17,3 +17,5 @@ A gray-scale image has 8 bit planes, each made of ith bit of every pixel.
 ![](Results/06.%20Bit%20Plane%206.png)<br>
 ![](Results/07.%20Bit%20Plane%207.png)<br>
 ![](Results/08.%20Bit%20Plane%208.png)<br>
+
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/image-bit-planes.matlab)
